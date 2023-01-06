@@ -7,7 +7,7 @@
 /* header-style */
 
 .header{
-    background:  url(../images/banner/banner2-edited.png);
+    background:  url(../images/banner/banner2.png);
     background-size: cover;
     height: 600px;
     width: 100%;
@@ -15,21 +15,24 @@
 .header-title{
     font-weight: 700;
     font-size: 48px;
-    padding: 170px 0 20px 100px ;
+    padding: 170px 100px 20px 0 ;
+    text-align: right;
 }
 .header-content{
-    padding:0 0 0 100px ;
+    padding:0 100px 0 0 ;
+    text-align: right;
 }
 .header-button{
     background-color: chocolate;
     border: none;
-    border-radius:2px ;
+    border-radius:5px ;
     font-size: 15px;
     color: aliceblue;
     position: absolute;
     padding: 10px;
     font-weight: 600;
-    margin:20px 0 0 100px;
+    margin:20px 0 0 1050px;
+    
     
 
 
