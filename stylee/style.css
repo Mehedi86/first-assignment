@@ -75,7 +75,35 @@
     font-weight: 700;
     font-size: 32px;
 }
+
 .sub-content{
     margin: 30px;
+}
+
+.sub-content-title{
+    margin-top: 10px;
+}
+
+.sub-content-description{
+    color: dimgrey;
+    font-weight: 490;
+    padding: 4px;
+}
+
+/* extra-design-section */
+
+.extra-design{
+    width: 900px;
+    height: 20px;
+    background-color:black;
+    margin:20px 200px 10px 200px;
+    border-radius: 10px;
+}
+.extra-design2{
+    width: 450px;
+    height: 20px;
+    background-color: black;
+    margin:20px 400px 10px 420px;
+    border-radius: 10px;
 }
 
