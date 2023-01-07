@@ -39,7 +39,7 @@
     display: flex;
     margin:100px 200px;
     height:490px;
-    background-color: brown;
+    background-color: rgba(120, 82, 82, 0.498);
 }
 .experience-title{
     padding: 20px;
@@ -184,9 +184,25 @@
 .footer-right-title{
     font-size: 20px;
     font-weight: 600;
-    margin: 72px 0 15px 0;
+    margin: 80px 0 15px 0;
 }
 .email-input{
+    font-weight: 700;
+    font-size: 30px;
     color: aliceblue;
     background-color:black ;
+    border: thin #FFFFFF;
+    border-radius: 4px;
+}
+.footer-button{
+    color:  #FD6E0A;
+    font-weight: 700;
+    font-size: 15px;
+    height: 48px ;
+    width: 120px;
+    border-radius: 2px;
+    background-color: #FFFFFF;
+    border: none;
+    text-align: center;
+    margin: px 0;
 }
